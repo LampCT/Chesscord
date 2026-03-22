@@ -10,6 +10,10 @@ Online chess platform written in javascript meant to be a web application
 4. Strategy library (openings?)
 5. AI agent to play against computer
 
+## Tools Used
+
+- Claude (Anthropic) — AI assistant used during development
+
 ## Implementation
 
 - javascript and html for the frontend supplemented with server-side rendering with handlebars
